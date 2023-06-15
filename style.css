@@ -25,15 +25,15 @@
     justify-content: center;
     flex-direction: row;
 }
-.dow{
+.pic{
     position: relative;
     border: 5px solid var(--color);
     justify-content: center;
     display: flex;
     flex-direction: column;
-    margin: 3rem;
+    margin: 1.5rem;
 }
-.dow img{
+.pic img{
     position: relative;
     width: 200px;
 }
